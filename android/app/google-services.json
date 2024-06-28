@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13031106840",
+    "project_id": "legal-rakshak",
+    "storage_bucket": "legal-rakshak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13031106840:android:ded30e5aeb2f4af81c966d",
+        "android_client_info": {
+          "package_name": "com.example.nyay_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13031106840-mcl6atj7o7gu0n0im9iv1gru6ptnd7h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nyay_1",
+            "certificate_hash": "a2405c3765dc5054b0d693f8f794a2180d5ac8b4"
+          }
+        },
+        {
+          "client_id": "13031106840-vkt1qsqa9m9lvn4m9lkjtkgn6q9s25bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFh3Q6zCQT2dWL5qu7uLtTUPIQzvcMb00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13031106840-vkt1qsqa9m9lvn4m9lkjtkgn6q9s25bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

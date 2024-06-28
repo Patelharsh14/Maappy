@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">13031106840</string>
+    <string name="google_api_key" translatable="false">AIzaSyAFh3Q6zCQT2dWL5qu7uLtTUPIQzvcMb00</string>
+    <string name="google_app_id" translatable="false">1:13031106840:android:ded30e5aeb2f4af81c966d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFh3Q6zCQT2dWL5qu7uLtTUPIQzvcMb00</string>
+    <string name="google_storage_bucket" translatable="false">legal-rakshak.appspot.com</string>
+    <string name="project_id" translatable="false">legal-rakshak</string>
+</resources>
